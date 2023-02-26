@@ -9,7 +9,7 @@ export const BUTTONS_ARRAY = [
     {title: "о профессии", path: "about"},
     {title: "направления", path: "directions"},
     {title: "навыки", path: "skills"},
-    {title: "конуренция", path: "competition"},
+    {title: "КОНКУРЕНЦИЯ", path: "competition"},
     {title: "преспективы", path: "perspectives"},
 ];
 
