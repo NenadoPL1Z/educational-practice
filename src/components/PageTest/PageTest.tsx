@@ -22,15 +22,15 @@ const PageTest = ({head, body}:  ITestModel) => {
             if (value.result) successCount += 1;
         }
 
-        const result = {count: successCount, reslut: successCount >= Math.floor(Object.keys(data).length / 2)}
+        const result = {count: successCount, reslut: successCount >= Math.ceil(Object.keys(data).length / 2)}
         setPageResult(result);
         localStorage.setItem(`${id}`, JSON.stringify(result))
     })
 
     const handleRest = () => {
         setPageResult(null);
+        methods.reset({});
         localStorage.removeItem(`${id}`);
-        window.scrollTo({top: 1000000000})
     }
 
     useEffect(() => {
