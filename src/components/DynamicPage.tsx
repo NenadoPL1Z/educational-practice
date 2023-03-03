@@ -17,7 +17,6 @@ const DynamicPage = () => {
                 setData(r)
             })
         }
-        // fetch("")
     }, [id])
 
     return (

@@ -17,7 +17,9 @@ const Testitem = ({title, content, index, handleSwiperNext, handleSwiperPrev}: I
 
     const onChange = (e:  React.ChangeEvent<HTMLInputElement>) => {
         field.onChange(JSON.parse(e.target.value))
-        handleSwiperNext();
+        setTimeout(() => {
+            handleSwiperNext();
+        }, 100)
     }
 
     return (

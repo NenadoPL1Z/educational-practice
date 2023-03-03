@@ -1,4 +1,94 @@
 {
   "title": "Навыки",
-  "text": "Перечень профессий/должностей:\nПрограммист (инженер-программист)\nСистемный программист\nПрограммист баз данных\nИнженер-системотехник\nСистемный администратор\nТребования к профессиональной подготовке\nПрофессиональные знания:\nзнание MO (Word, Excel, Access), Corel DRAW, Math CAD, Auto CAD, MatLab, Acrobat Reader, STATISTIKA и др.;\nзнание ОС: Windows 95/98/Me/2000/2003/XP/Vista, MCBC;\nзнание, Office 97/2000/XP/2007\nзнание ОС Linus, Sjlaris\nзнание реляционных баз данных: MS SQL Server, Oracle, DB/2,MySQL\nзнание сетей: Windows NT (TCP/IP), Novell Netware (IPX/SPX), Unix (TCP/IP)\nзнание Интернет-серверов: IIS, Apache\nзнание технологий проектирования, планирования, CASE-средств и специализированных средств тестирования: MS Project, Rational Rose, UML, MS Visio, Web Load, MS ACT (Application Center Test), Silk Test, Silk Performer, NUnit, JUnit\nзнание почтовых программ и серверов: MS Outlook, MS Exchange Server\nзнание базовых языков программирования: Visual C++, MFC, Win32 API, OLE, STL, ATL, DCOM, COM, COM+, MTS, ActiveX, ODBC, ADO, OLE DB, VSS , Visual Basic, VBA, HTML, XML/XSL, UML, SQL, C/C++, ASP, Java Script, CORB, PHP, Pascal, Delphi.;\nзнание других языков программирования: Java, JSP Serviets JTS, JMS, Struts Framework, Hibernate, JSF, JAAS, JNDI, JWS, JAXP, EJB, Ant’, Log4J, Basic Java packages (AWT, SWING, etc.), Threads, JDBC, RMI; Java Application Servers JBoss, WebLogic, WebSphere, Tomcat; NET Язык С#, Язык VB.NET, Managed C++, Язык J#, .Net Framework, ADO.NET, ASP.NET, Net Security, .Net Cryptography;\nзнание Вебсервисов на платформе NET: WSE 2.0, Net Remoting, Com to Net interop, Net to Com interop, ServicedComponents (COM+ на NET), Windows Forms, GDI+;\nзнание принципов программирования современной трехмерной графики\nУмения и навыки:\nнавыки работы с базами данных: SQL Server, VB, PostgreSQL, MySQL;\nнавыки работы с ОС: Windows 95/98/Me/2000/2003/XP/Vista, MCBC;\nнавыки работы с Corel DRAW, Math CAD, Auto CAD, MatLab, Acrobat Reader, STATISTIKA;\nнавыки работы в программах Photoshop, CorelDRAW;\nнавыки разработки клиент-серверных приложений;\nнавыки работы с OpenGL, DirectX;\nнавыки работы с почтовыми программами;\nнавыки организации выхода пользователей в Интернет (Proxy, FireWall, антивирус);\nнавыки проведения, настройки и поддержки работы локальных сетей для N компьютеров;\nнавыки создания и информационного обеспечения корпоративного сайта в Интернете;\nнавыки разработки технического задания и контента каждой страницы сайта;\nнавыки работы с адресными базами данных;\nумение настраивать и поддерживать работу компьютера;\nСпособности:\nматематические способности;\nаналитические способности;\nлогическое мышление;\nгибкость и динамичность мышления;\nхорошая словесно-логическая память;\nвысокий уровень развития концентрации, объема, распределения и переключения внимания;\nспособность грамотно выражать свои мысли;\nвысокий уровень развития технических способностей;\nразвитое воображение;\nЛичностные качества:\nсклонность к интеллектуальным видам деятельности,\nумение самостоятельно принимать решения,\nдисциплинированность,\nвнимательность,\nаккуратность,\nтерпеливость,\nнастойчивость,\nцелеустремленность,\nответственность."
+  "text": "Перечень профессий/должностей:\nПрограммист (инженер-программист)\nСистемный программист\nПрограммист баз данных\nИнженер-системотехник\nСистемный администратор\nТребования к профессиональной подготовке\nПрофессиональные знания:\nзнание MO (Word, Excel, Access), Corel DRAW, Math CAD, Auto CAD, MatLab, Acrobat Reader, STATISTIKA и др.;\nзнание ОС: Windows 95/98/Me/2000/2003/XP/Vista, MCBC;\nзнание, Office 97/2000/XP/2007\nзнание ОС Linus, Sjlaris\nзнание реляционных баз данных: MS SQL Server, Oracle, DB/2,MySQL\nзнание сетей: Windows NT (TCP/IP), Novell Netware (IPX/SPX), Unix (TCP/IP)\nзнание Интернет-серверов: IIS, Apache\nзнание технологий проектирования, планирования, CASE-средств и специализированных средств тестирования: MS Project, Rational Rose, UML, MS Visio, Web Load, MS ACT (Application Center Test), Silk Test, Silk Performer, NUnit, JUnit\nзнание почтовых программ и серверов: MS Outlook, MS Exchange Server\nзнание базовых языков программирования: Visual C++, MFC, Win32 API, OLE, STL, ATL, DCOM, COM, COM+, MTS, ActiveX, ODBC, ADO, OLE DB, VSS , Visual Basic, VBA, HTML, XML/XSL, UML, SQL, C/C++, ASP, Java Script, CORB, PHP, Pascal, Delphi.;\nзнание других языков программирования: Java, JSP Serviets JTS, JMS, Struts Framework, Hibernate, JSF, JAAS, JNDI, JWS, JAXP, EJB, Ant’, Log4J, Basic Java packages (AWT, SWING, etc.), Threads, JDBC, RMI; Java Application Servers JBoss, WebLogic, WebSphere, Tomcat; NET Язык С#, Язык VB.NET, Managed C++, Язык J#, .Net Framework, ADO.NET, ASP.NET, Net Security, .Net Cryptography;\nзнание Вебсервисов на платформе NET: WSE 2.0, Net Remoting, Com to Net interop, Net to Com interop, ServicedComponents (COM+ на NET), Windows Forms, GDI+;\nзнание принципов программирования современной трехмерной графики\nУмения и навыки:\nнавыки работы с базами данных: SQL Server, VB, PostgreSQL, MySQL;\nнавыки работы с ОС: Windows 95/98/Me/2000/2003/XP/Vista, MCBC;\nнавыки работы с Corel DRAW, Math CAD, Auto CAD, MatLab, Acrobat Reader, STATISTIKA;\nнавыки работы в программах Photoshop, CorelDRAW;\nнавыки разработки клиент-серверных приложений;\nнавыки работы с OpenGL, DirectX;\nнавыки работы с почтовыми программами;\nнавыки организации выхода пользователей в Интернет (Proxy, FireWall, антивирус);\nнавыки проведения, настройки и поддержки работы локальных сетей для N компьютеров;\nнавыки создания и информационного обеспечения корпоративного сайта в Интернете;\nнавыки разработки технического задания и контента каждой страницы сайта;\nнавыки работы с адресными базами данных;\nумение настраивать и поддерживать работу компьютера;\nСпособности:\nматематические способности;\nаналитические способности;\nлогическое мышление;\nгибкость и динамичность мышления;\nхорошая словесно-логическая память;\nвысокий уровень развития концентрации, объема, распределения и переключения внимания;\nспособность грамотно выражать свои мысли;\nвысокий уровень развития технических способностей;\nразвитое воображение;\nЛичностные качества:\nсклонность к интеллектуальным видам деятельности,\nумение самостоятельно принимать решения,\nдисциплинированность,\nвнимательность,\nаккуратность,\nтерпеливость,\nнастойчивость,\nцелеустремленность,\nответственность.",
+  "test": {
+    "head": "Тест для закрепления материала",
+    "body": [
+      {
+        "title": "Кто такие программисты?",
+        "content": [
+          {
+            "title": "Консультанты в магазинах техники",
+            "result": false
+          },
+          {
+            "title": "Учителя информатики",
+            "result": false
+          },
+          {
+            "title": "Cпециалист, занимающийся созданием компьютерных программ",
+            "result": true
+          }
+        ]
+      },
+      {
+        "title": "Чем занимаются программисты 'Прикладного направления' ?",
+        "content": [
+          {
+            "title": "Это специалисты, занимающиеся разработкой и внедрением программного обеспечения, необходимого для нормального функционирования организаций.",
+            "result": true
+          },
+          {
+            "title": "Это специалисты, работающие с глобальными сетями",
+            "result": false
+          },
+          {
+            "title": "Это специалисты, разрабатывающие операционные системы",
+            "result": false
+          }
+        ]
+      },
+      {
+        "title": "Чем занимаются программисты 'Web'?",
+        "content": [
+          {
+            "title": "Это специалисты, разрабатывающие операционные системы",
+            "result": false
+          },
+          {
+            "title": "Это специалисты, работающие с глобальными сетями",
+            "result": true
+          },
+          {
+            "title": "Это специалисты, занимающиеся разработкой интерфейсов",
+            "result": true
+          }
+        ]
+      },
+      {
+        "title": "Карьера программиста напрямую зависит от",
+        "content": [
+          {
+            "title": "Места работы",
+            "result": true
+          },
+          {
+            "title": "Навыков и способностей",
+            "result": true
+          },
+          {
+            "title": "Времени уделяемой работе",
+            "result": false
+          }
+        ]
+      },
+      {
+        "title": "Языки программирования для программиста это?",
+        "content": [
+          {
+            "title": "Способ заработка",
+            "result": true
+          },
+          {
+            "title": "Развлечение, способ отдыха",
+            "result": true
+          },
+          {
+            "title": "Основной инструмент его работы",
+            "result": true
+          }
+        ]
+      }
+    ]
+  }
 }
