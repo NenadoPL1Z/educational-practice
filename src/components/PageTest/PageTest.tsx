@@ -73,6 +73,7 @@ const ContainerSC = styled("div")`
     border-radius: 10px;
     padding: 20px;
     text-align: center;
+    margin-bottom: 20px;
 `
 
 const TitleSC = styled("h2")`

@@ -60,6 +60,7 @@ const ButtonStyle = styled("div")`
 const CustomTitleSC = styled(TitleSC)`
   position: relative;
   z-index: 1;
+  color: ${COLORS.TEXT_COLOR} !important;
 `;
 
 const BackdoorSC = styled("div")`

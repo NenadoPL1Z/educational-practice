@@ -13,7 +13,34 @@ export const GlobalStyles = createGlobalStyle`
   }
   
   h1 {
-    margin: 0 !important;
+    color: ${COLORS.H1};
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  p {
+    margin: 20px 0;
+  }
+  
+  code {
+    display: block;
+    background-color: ${COLORS.CODE_BACKGROUND};
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+    white-space: pre-wrap;
+  }
+  
+  li {
+    padding-left: 20px;
+    margin: 20px 0;
+    color: ${COLORS.LI_COLOR}
+  }
+  
+  img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
   }
   
   *, *::after, *::before {
