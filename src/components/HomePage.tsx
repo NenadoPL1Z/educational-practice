@@ -29,6 +29,11 @@ const ContainerSC = styled("main")`
   display: flex;
   flex-direction: column;
   overflow: hidden;
+  max-width: 800px;
+  min-height: calc(100vh - 40px);
+  margin: 20px auto;
+  border-radius: 10px;
+  background-color: ${COLORS.BACKGROUND_COLOR_TWO};
 `;
 
 const InfoContainerSC = styled("section")`
