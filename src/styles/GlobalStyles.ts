@@ -40,7 +40,6 @@ export const GlobalStyles = createGlobalStyle`
   img {
     object-fit: cover;
     width: 100%;
-    height: 100%;
   }
   
   *, *::after, *::before {
@@ -54,12 +53,7 @@ export const GlobalStyles = createGlobalStyle`
   }
   
   #root {
-    max-width: 800px;
-    min-height: calc(100vh - 40px);
-    margin: 20px auto;
-    border-radius: 10px;
-    background-color: ${COLORS.BACKGROUND_COLOR_TWO};
     display: flex;
-    flex-direction: column;
+    justify-content: center;
   }
 `
