@@ -16,9 +16,16 @@ const HomePage = () => {
             <ButtonContainerSC>
                 {BUTTONS_ARRAY.map((buttonItem) => (
                     <ButtonStyle>
-                        <Button fullWidth variant="contained" onClick={() => navigation(`/${buttonItem.path}`)}>{buttonItem.title}</Button>
+                        <Button fullWidth variant="contained" href={buttonItem.path}>{buttonItem.title}</Button>
                     </ButtonStyle>
                 ))}
+                <BorderSC/>
+                <ButtonStyle>
+                    <Button fullWidth variant="contained" href="/user.word" download>Руководство пользователя</Button>
+                </ButtonStyle>
+                <ButtonStyle>
+                    <Button fullWidth variant="contained" href="/softwareEngineer.word" download>руководство программиста</Button>
+                </ButtonStyle>
             </ButtonContainerSC>
         </ContainerSC>
     )
@@ -55,6 +62,13 @@ const ButtonContainerSC = styled("section")`
   & > *:last-child {
     margin-bottom: 0px;
   }
+`;
+
+const BorderSC = styled("div")`
+  width: 100%;
+  height: 10px;
+  background-color: ${COLORS.BORDER_COLOR};
+  margin-bottom: 10px;
 `;
 
 const ButtonStyle = styled("div")`
