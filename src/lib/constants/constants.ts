@@ -6,6 +6,7 @@ export enum COLORS {
     BACKDOOR_COLOR = "rgba(0, 0, 0, 0.5)",
     CODE_BACKGROUND = "rgba(0, 0, 0, 0.5)",
     LI_COLOR = "#d7d7d7",
+    BORDER_COLOR = "lightblue"
 }
 
 export const BUTTONS_ARRAY = [
