@@ -24,7 +24,7 @@ const HomePage = () => {
                     <Button fullWidth variant="contained" href="/rukovodstvo_polzovatelya.docx" download>Руководство пользователя</Button>
                 </ButtonStyle>
                 <ButtonStyle>
-                    <Button fullWidth variant="contained" href="/rukovodstvo_programmista.docx" download>руководство программиста</Button>
+                    <Button fullWidth variant="contained" href="/rukovodstvo_programmsita.docx" download>руководство программиста</Button>
                 </ButtonStyle>
             </ButtonContainerSC>
         </ContainerSC>
